@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Елизавета Савинцева](https://htmlacademy.ru/profile/id132211).
-* Наставник: [Ирина Прозвище Шефер] (https://htmlacademy.ru/profile/shefer).
+* Наставник: [Ирина Шефер] (https://htmlacademy.ru/profile/shefer).
 
 ---
 
